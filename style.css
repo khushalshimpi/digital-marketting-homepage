@@ -1,0 +1,75 @@
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  margin: -25px 400px;
+  margin-left: 227px;
+  margin-right: 600px;
+}
+.button-group button {
+  float: right;
+  margin-left: 0px;
+  margin-right: 120px;
+  padding: 10px 24px;
+  margin-top: 0px;
+  background: #5a20cb;
+  color: white;
+  border: 2px solid #5a20cb;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.list-item {
+  list-style: none;
+  color: gray;
+  cursor: pointer;
+}
+.list-item:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.logo {
+  float: right;
+  height: 500px;
+  margin-bottom: 0px;
+  margin-top: -472px;
+  width: 800px;
+  margin-left: 0px;
+  margin-right: -7px;
+}
+.nav-logo {
+  margin-left: 115px;
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: -8px;
+}
+.heading-text {
+  display: block;
+  margin-left: 115px;
+  font-size: 70px;
+  width: 500px;
+  margin-bottom: 126px;
+  margin-top: 150px;
+  color: #370d32;
+}
+.heading-text span {
+  color: #8d3daf;
+}
+.description {
+  width: 350px;
+  margin-left: 128px;
+  font-size: 16px;
+  /* margin-bottom: 0px; */
+  letter-spacing: 1px;
+  margin-top: -100px;
+  color: gray;
+}
+.nav-button {
+  margin-left: 130px;
+  margin-top: 40px;
+  padding: 13px 30px;
+  background: #5a20cb;
+  color: white;
+  border: 2px solid #5a20cb;
+  border-radius: 10px;
+  cursor: pointer;
+}
